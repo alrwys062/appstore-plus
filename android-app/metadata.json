@@ -1,6 +1,0 @@
-{
-  "name": "AppStore Plus",
-  "description": "App Store Plus - متجر التطبيقات والألعاب لتحميل وتحديث التطبيقات والألعاب وإدارتها",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
